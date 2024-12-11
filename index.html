@@ -119,7 +119,70 @@
         </section>
 
         <!-- Reservation  -->
-        <section id="book" class="reservation"></section>
+        <section id="book" class="reservation">
+          <h2 class="reservation__title">Book a table</h2>
+          <form class="reservation__form form">
+            <fieldset class="form__fieldset">
+              <label for="name-input" class="form__label"
+                >Name*
+                <input
+                  class="form__input"
+                  id="name-input"
+                  required
+                  type="text"
+                  placeholder="Name Surname"
+                />
+              </label>
+
+              <label for="number-input" class="form__label">
+                Number of guests*
+                <input
+                  class="form__input"
+                  id="number-input"
+                  required
+                  type="number"
+                  placeholder="1-8"
+                  min="1"
+                  max="8"
+                />
+              </label>
+
+              <label for="date-input" class="form__label">
+                Date & time*
+                <input
+                  class="form__input"
+                  id="date-input"
+                  required
+                  type="datetime-local"
+                />
+              </label>
+
+              <label for="email-input" class="form__label">
+                Your email*
+                <input
+                  class="form__input"
+                  id="email-input"
+                  required
+                  type="email"
+                  placeholder="email@email.com"
+                />
+              </label>
+            </fieldset>
+            <button class="form__button">Book a table</button>
+
+            <label
+              for="checkbox-input"
+              class="form__label form__checkbox_type_checkbox"
+            >
+              <input
+                id="checkbox-input"
+                class="form__checkbox"
+                type="checkbox"
+              />
+              I agree with the terms of use
+            </label>
+          </form>
+        </section>
 
         <!-- Menu -->
         <section id="menu" class="menu"></section>
