@@ -230,7 +230,7 @@
   height: 20px;
 }
 
-.form__checkbox_type_checkbox {
+.form__label_checkbox {
   display: flex;
   justify-content: center;
   gap: 12px;
