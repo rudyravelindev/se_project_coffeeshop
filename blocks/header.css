@@ -4,9 +4,12 @@
   display: flex;
   flex-direction: column;
   background-image: url("../images/background_header.svg");
+  background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
   position: relative;
+  z-index: 1;
+  box-sizing: border-box;
 }
 
 .header__image {
@@ -15,11 +18,13 @@
   right: 5px;
   width: 646px;
   height: 568px;
+  z-index: -1;
 }
 
 .header__title {
   font-family: "Inter", Arial, sans-serif;
   font-size: 60px;
+  font-weight: normal;
   line-height: 72px;
   letter-spacing: -0.6px;
   margin: 183px 0 0;

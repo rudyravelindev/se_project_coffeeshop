@@ -16,7 +16,8 @@
 }
 
 .footer__column-heading {
-  margin: 0 0 20px;
+  margin: 0 0 4px;
+  font-size: inherit;
 }
 
 .footer__list {
@@ -47,5 +48,5 @@
   margin-right: 10px;
 }
 .footer__copyright {
-  margin-top: 108px 0 0;
+  margin: 108px 0 0;
 }
