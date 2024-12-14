@@ -13,7 +13,7 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 # Project name.
 
-Coffee Shop
+Triple Peaks Coffee Shop
 
 # Project description (i.e. describe the functionality and the technologies used).
 
