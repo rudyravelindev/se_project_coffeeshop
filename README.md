@@ -11,8 +11,6 @@ This is the second project of the Software Engineering program at TripleTen. It 
 - A custom form
 - CSS animation and transform
 
-# This project Cofee Shop
-
 # Project name.
 
 Coffee Shop
