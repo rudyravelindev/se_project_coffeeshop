@@ -11,11 +11,6 @@ This is the second project of the Software Engineering program at TripleTen. It 
 - A custom form
 - CSS animation and transform
 
-## Plan on improving the project
-
-1. I want to keep this project and create a new for a friend using the same method but it will be for his cleaning services.
-2. Also I will make the nav lin real link. and in the future add js for interaction.
-
 # This project Cofee Shop
 
 # Project name.
@@ -32,8 +27,5 @@ This is a project that allow me to learn more about html and some advence css it
 2. CSS3 for styling, with a focus on modern design techniques like flexbox and animations.
 3. Google Fonts for typography.
 4. YouTube API embedding for displaying recipe videos.
-
-# Plans for Improving the Project
-
-1. I want to create create a dark mode toggle to enhance user accessibility.
-2. Implement form validation for the reservation form, displaying real-time error messages for invalid inputs.
+5. I want to create create a dark mode toggle to enhance user accessibility.
+6. Implement form validation for the reservation form, displaying real-time error messages for invalid inputs.
